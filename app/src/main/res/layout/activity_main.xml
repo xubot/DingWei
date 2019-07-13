@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E9E9E9"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="必须都有"/>
+
+    <Button
+        android:id="@+id/esle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="可以选某一个"/>
+</LinearLayout>
